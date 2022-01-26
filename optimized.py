@@ -3,7 +3,7 @@ import pandas as pd
 
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
-my_data = 'dataset1_Python+P7.csv'
+my_data = './database/dataset1_Python+P7.csv'
 wallet = 500
 first_result = {}
 

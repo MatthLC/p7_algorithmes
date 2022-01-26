@@ -1,6 +1,6 @@
 import pandas as pd
 
-my_data = 'forcebrute.csv'
+my_data = './database/forcebrute.csv'
 wallet = 500
 result = []
 temp = []
